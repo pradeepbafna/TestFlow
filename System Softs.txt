@@ -1,0 +1,11 @@
+avast
+ms office
+adobe reader
+gimp
+movie maker
+chrome 
+firefox
+jdk
+node js
+skype
+shareit
